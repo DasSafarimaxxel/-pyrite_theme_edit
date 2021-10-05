@@ -27,7 +27,7 @@
 
 /* Theme Base */
 :root {
-  --background-image: url(https://cdn.discordapp.com/attachments/824370827763777597/872263369988661268/Chloe.von.Einzbern.full.3039564.png);
+  --background-image: url(https://raw.githubusercontent.com/DasSafarimaxxel/Pyrite_theme_edit/main/IMG/Chloe.von.Einzbern.full.3039564.png);
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   --background-attachment: fixed;
