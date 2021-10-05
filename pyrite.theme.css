@@ -27,7 +27,7 @@
 
 /* Theme Base */
 :root {
-  --background-image: url(https://raw.githubusercontent.com/DasSafarimaxxel/Pyrite_theme_edit/main/IMG/Chloe.von.Einzbern.full.3039564.png);
+  --background-image: url(https://raw.githubusercontent.com/DasSafarimaxxel/Pyrite_theme_edit/main/IMG/background.png);
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   --background-attachment: fixed;
@@ -39,7 +39,7 @@
   --tooltip-color: #B85782;
   --mention-background: var(--primary-color);
   --mention-opacity: 0.3;
-  --home-icon: url(https://cdn.discordapp.com/attachments/824370827763777597/868941041351401472/dfadadadaddasdasdsadasdadadadsa.png);
+  --home-icon: url(https://raw.githubusercontent.com/DasSafarimaxxel/Pyrite_theme_edit/main/IMG/homeicon.png);
 
   /* For Advanced Users */
   --code-font: Monaco, Consolas, Courier, monospace;
